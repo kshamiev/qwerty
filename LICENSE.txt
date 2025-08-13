@@ -15,9 +15,9 @@
       "Legal Entity" shall mean the union of the acting entity and all
       other entities that control, are controlled by, or are under common
       control with that entity. For the purposes of this definition,
-      git push --set-upstream origin branch-100
-      git push --set-upstream origin branch-100
-      git push --set-upstream origin branch-100
+      git push --set-upstream origin branch-200
+      git push --set-upstream origin branch-200
+      git push --set-upstream origin branch-200
       "control" means (i) the power, direct or indirect, to cause the
       direction or management of such entity, whether by contract or
       otherwise, or (ii) ownership of fifty percent (50%) or more of the
@@ -25,6 +25,10 @@
 
       "You" (or "Your") shall mean an individual or Legal Entity
       exercising permissions granted by this License.
+
+      git push --set-upstream origin branch-200
+      git push --set-upstream origin branch-200
+      git push --set-upstream origin branch-200
 
       "Source" form shall mean the preferred form for making modifications,
       including but not limited to software source code, documentation
